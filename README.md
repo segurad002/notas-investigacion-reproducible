@@ -1,2 +1,3 @@
-# notas-investigacion-reproducible
-Tarea 01 Markdown
+# Notas sobre investigación reproducible y análisis de datos
+## Reproductibilidad
+
